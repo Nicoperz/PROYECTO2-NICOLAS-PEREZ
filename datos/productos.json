@@ -1,0 +1,32 @@
+[
+    {
+        "id": "Beats-01",
+        "titulo": "Black",
+        "imagen": "./img/product1.png",
+        "precio": 2000
+    },
+    {
+        "id": "Beats-02",
+        "titulo": "Red Black",
+        "imagen": "./img/product2.png",
+        "precio": 2500
+    },
+    {
+        "id": "Beats-03",
+        "titulo": "Night Black",
+        "imagen": "./img/product3.png",
+        "precio": 3000
+    },
+    {
+        "id": "Beats-04",
+        "titulo": "Blue",
+        "imagen": "./img/product4.png",
+        "precio": 3500
+    },
+    {
+        "id": "Beats-05",
+        "titulo": "Twiight Gray",
+        "imagen": "./img/product5.png",
+        "precio": 4000
+    }
+]
